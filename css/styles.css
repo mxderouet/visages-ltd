@@ -1,0 +1,72 @@
+@import url('https://fr.allfont.net/allfont.css?fonts=bookman-old-style');
+
+body {
+  font-family: 'Helvetica','sans-serif';
+}
+
+.navbar-nav.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+}
+
+.navbar-nav.navbar-right {
+  position: absolute;
+  right: 8%;
+}
+
+.nav-item {
+  margin: 0 5%;
+}
+
+.nav-item a{
+  color:#171919 !important;
+}
+
+.nav-item a:hover {
+  color:#6f6f6f !important;
+}
+
+.header-btn{
+  width: 161%;
+  border: none;
+  border-radius: 1rem;
+  padding: 8%;
+  background: #0062cc;
+  color: #fff;
+  font-weight: 700;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.logo-visage{
+  height: 100%;
+}
+
+.card{
+  margin-bottom: 100px;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+}
+
+.release-link {
+  text-align: center;
+}
+
+.release-link img{
+  width: 10%;
+  margin: 0 5%;
+}
