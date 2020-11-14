@@ -4,10 +4,6 @@ body {
   font-family: 'Helvetica','sans-serif';
 }
 
-/* .navbar {
-  background-color: #FFEA00;
-} */
-
 .navbar-nav.navbar-center {
   position: absolute;
   left: 15%;
@@ -78,4 +74,29 @@ html {
 .release-link img{
   width: 10%;
   margin: 0 5%;
+}
+
+/* CONTACT PAGE */
+
+.contact-info {
+  padding: 3em;
+}
+
+.list-div {
+  margin: 0 auto;
+  padding: 3em;
+}
+
+.contact-list {
+  padding: 1em;
+  padding-left: 28%;
+  list-style-type: none;
+}
+
+ul.contact-list li {
+  float: left;
+}
+
+ul.contact-list li a {
+  display: block;
 }
