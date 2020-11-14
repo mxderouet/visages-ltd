@@ -100,3 +100,9 @@ ul.contact-list li {
 ul.contact-list li a {
   display: block;
 }
+
+/* CONTACT PAGE */
+
+.about-info {
+  padding: 3em;
+}
