@@ -53,6 +53,7 @@ body {
   margin-top: 50px;
   margin-right: auto;
   margin-left: auto;
+  border: 0px;
 }
 
 html {
@@ -104,5 +105,11 @@ ul.contact-list li a {
 /* CONTACT PAGE */
 
 .about-info {
+  padding: 3em;
+}
+
+/* ARTISTS PAGE */
+
+.artists-info {
   padding: 3em;
 }
